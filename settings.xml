@@ -89,6 +89,16 @@ Contributor(s):
    
           
 </mirrors>
+    
+ <repositories>
+
+              <repository>
+                <id>my-repo1</id>
+                <name>My Maven Central Repo</name>
+                <url>https://repo1.maven.org/maven2/</url>
+              </repository>
+
+ </repositories>    
 
 
 </settings>
